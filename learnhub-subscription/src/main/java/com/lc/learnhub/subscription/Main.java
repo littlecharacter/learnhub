@@ -1,4 +1,4 @@
-package com.lc.learnhub;
+package com.lc.learnhub.subscription;
 
 public class Main {
     public static void main(String[] args) {

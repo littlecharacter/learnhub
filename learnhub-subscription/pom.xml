@@ -27,5 +27,6 @@
         <module>learnhub-subscription-facade</module>
         <module>learnhub-subscription-infrastructure</module>
         <module>learnhub-subscription-application</module>
+        <module>learnhub-subscription-common</module>
     </modules>
 </project>

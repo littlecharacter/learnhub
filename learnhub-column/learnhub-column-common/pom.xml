@@ -5,23 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.lc</groupId>
-        <artifactId>learnhub</artifactId>
+        <artifactId>learnhub-column</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>learnhub-column</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-
-    <modules>
-        <module>learnhub-column-api</module>
-        <module>learnhub-column-application</module>
-        <module>learnhub-column-domain</module>
-        <module>learnhub-column-facade</module>
-        <module>learnhub-column-infrastructure</module>
-        <module>learnhub-column-main</module>
-        <module>learnhub-column-common</module>
-    </modules>
+    <artifactId>learnhub-column-common</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
